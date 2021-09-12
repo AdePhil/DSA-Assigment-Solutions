@@ -1,5 +1,8 @@
 
-
+'''
+Questions: 
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/edit/main/assignments/9-patterns.md
+'''
 
 def pattern1(n):
   print("\npattern 1 \n")
